@@ -5,7 +5,7 @@
 Communication between client and server through socket for Kinect product
 
 
-### Liability
+## Reference
 
 1. [HP-Socket](https://github.com/ldcsaa/HP-Socket)
 1. [Log](https://github.com/PDA26/Log)
